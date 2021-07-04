@@ -1,0 +1,14 @@
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\bin\Release\SwitchSM.exe.config
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\bin\Release\SwitchSM.exe
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\bin\Release\SwitchSM.pdb
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\MainWindow.g.cs
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\App.g.cs
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM_MarkupCompile.cache
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM_MarkupCompile.lref
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\MainWindow.baml
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.g.resources
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.Properties.Resources.resources
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.csproj.GenerateResource.cache
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.csproj.CoreCompileInputs.cache
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.exe
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.pdb

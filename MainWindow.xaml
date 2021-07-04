@@ -1,0 +1,22 @@
+﻿<Window x:Class="SwitchSM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SwitchSM"
+        mc:Ignorable="d"
+                Title="SwitchSM" Height="477.299" Width="360.499" Icon="StartMenuSwitcherIcon.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="56*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" Name="button1" HorizontalAlignment="Left" Margin="26,143,0,0" VerticalAlignment="Top" Width="298" Click="Button_Click" Height="78" FontSize="20" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="26,244,0,0" TextWrapping="WrapWithOverflow" Name="message1" Text="TextBlock" VerticalAlignment="Top" Height="108" Width="298" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Name="logo" Source="images\w10.png" Height="62" Margin="65.17,28,0,0" VerticalAlignment="Top" Width="80" Grid.Column="1"/>
+        <Label Content="Label" Name="osLabel" HorizontalContentAlignment="Center" Margin="0.17,104,83.4,0" VerticalAlignment="Top" FontSize="18" Width="196" Grid.Column="1"/>
+        <Label Content="developed by kn0ws. visit https://dev.kn0ws.com" HorizontalAlignment="Left" Margin="75,412,0,0" VerticalAlignment="Top" Width="269" Grid.ColumnSpan="2"/>
+
+    </Grid>
+
+</Window>
