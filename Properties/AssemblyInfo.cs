@@ -8,11 +8,11 @@ using System.Windows;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("SwitchSM")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Windows 11のスタートメニューをWIndows10のスタートメニューに変更する、ただそれだけのソフトです。")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SwitchSM")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 kn0ws")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
