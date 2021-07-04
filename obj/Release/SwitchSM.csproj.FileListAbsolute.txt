@@ -12,3 +12,4 @@ C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.csproj.Genera
 C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.csproj.CoreCompileInputs.cache
 C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.exe
 C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.pdb
+C:\Users\kn0ws\source\repos\SwitchSM\SwitchSM\obj\Release\SwitchSM.csproj.AssemblyReference.cache
